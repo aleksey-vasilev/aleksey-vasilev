@@ -19,5 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" **alt="Postman" width="50" height="50"/>
 </div>
-
-![](https://komarev.com/ghpvc/?username=aleksey-vasilev&style=flat-square)
